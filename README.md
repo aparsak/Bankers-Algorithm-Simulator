@@ -1,6 +1,6 @@
 ## 🚧 Work in Progress
 
-Please note that this README is a work in progress and may not include all the information related to the Banker's Algorithm Simulator. We are actively updating and improving the documentation. If you have any questions or need further details, feel free to reach out or check back later for updates.
+Please note that this README is a work in progress and may not include all the information related to the Banker's Algorithm Simulator. If you have any questions or need further details, feel free to reach out or check back later for updates.
 
 Thank you for your understanding!
 
